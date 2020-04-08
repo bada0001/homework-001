@@ -1,0 +1,9 @@
+3+5
+5+7
+x=5
+x+7
+x^2+2*x-2
+install.packages(c("ggplot2","dplyr"))
+install.packages(c("dplyr","ggplot2"))
+install.packages("ggplot2")
+install.packages("dllyr")
